@@ -159,7 +159,7 @@ Susana's New Ideas
 ## Top 3 New App Ideas
 1. To-Do App
 Stuff here
-
+ 
 ## New App Ideas - Evaluate and Categorize
 
 Stuff here
